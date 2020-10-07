@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev">
+<a href="https://github.com/jankit311/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=jankit311">
 </a>
