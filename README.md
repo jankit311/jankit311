@@ -34,6 +34,13 @@ Java, Python, C++, Java.
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=parnabghosh1004&layout=compact&langs_count=8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankit311&layout=compact&langs_count=10&theme=radical" />
 </a>
+## &nbsp;Connect with Me :
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jankit311/"><img src="https://img.shields.io/badge/-Ankit%20Jain%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jankit311@gmail.com"><img src="https://img.shields.io/badge/-jankit311@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 <br> 
 <br>
 
@@ -41,9 +48,3 @@ Java, Python, C++, Java.
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jankit311) 
 -->
 
-## &nbsp;Connect with Me :
-
-<p align="center">
-<a href="https://www.linkedin.com/in/jankit311/"><img src="https://img.shields.io/badge/-Ankit%20Jain%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jankit311@gmail.com"><img src="https://img.shields.io/badge/-jankit311@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
