@@ -26,16 +26,20 @@ Java, Python, C++, Java.
 <br>
 <hr>
 <br>
+<!---
 <a href="https://github-readme-stats.vercel.app/api?username=jankit311&show_icons=true&theme=cobalt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jankit311&show_icons=true&theme=radical&custom_title=My GitHub Stats" />
 </a>
+-->
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=parnabghosh1004&layout=compact&langs_count=8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankit311&layout=compact&langs_count=10&theme=radical" />
 </a>
 <br> 
 <br>
 
+<!---
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jankit311) 
+-->
 
 ## &nbsp;Connect with Me :
 
